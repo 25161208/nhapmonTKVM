@@ -1,6 +1,0 @@
-# Thông tin cá nhân
-- Họ tên: Nguyễn Văn A
-- MSSV: 123456
-
-## Nội dung
-Đây là file cá nhân để hoàn thành bài tập Git.
