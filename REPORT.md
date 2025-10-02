@@ -12,7 +12,13 @@ Commit 1
 
 
 
-* Là thành viên nhóm 1 
+* Là thành viên nhóm 1
 
 Commit 2
+
+
+
+Sở thích : Chụp ảnh
+
+Commit 3
 
